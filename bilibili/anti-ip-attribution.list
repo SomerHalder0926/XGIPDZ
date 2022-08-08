@@ -1,0 +1,12 @@
+# ======= 哔哩哔哩 ======= #
+DOMAIN-SUFFIX,biliapi.net,IP
+DOMAIN-SUFFIX,biliapi.com,IP 
+DOMAIN,api.bilibili.com,IP 
+DOMAIN,api.bilibili.tv,IP 
+DOMAIN,app.bilibili.com,IP 
+DOMAIN,api.live.bilibili.com,IP 
+DOMAIN,api.vc.bilibili.com,IP 
+DOMAIN,passport.bilibili.com,IP 
+DOMAIN,live-trace.bilibili.com,IP 
+DOMAIN,message.bilibili.com,IP 
+DOMAIN,cm.bilibili.com,IP 
