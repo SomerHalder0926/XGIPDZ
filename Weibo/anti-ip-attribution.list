@@ -1,0 +1,3 @@
+# ======= 微博 ======= #
+DOMAIN,api.weibo.cn,PROXY
+DOMAIN,api.weibo.com,PROXY
