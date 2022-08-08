@@ -1,0 +1,6 @@
+# ======= 知乎 ======= #
+#DOMAIN,zhihu-web-analytics.zhihu.com,PROXY
+#DOMAIN,www.zhihu.com,PROXY
+#DOMAIN,api.zhihu.com,PROXY
+DOMAIN-SUFFIX,zhihu.com,PROXY
+IP-CIDR,103.41.167.0/24,PROXY
