@@ -10,3 +10,8 @@ DOMAIN,passport.bilibili.com,PROXY
 DOMAIN,live-trace.bilibili.com,PROXY
 DOMAIN,message.bilibili.com,PROXY
 DOMAIN,cm.bilibili.com,PROXY
+DOMAIN-SUFFIX,bilibili.com,PROXY
+DOMAIN-SUFFIX,im9.com,PROXY
+DOMAIN-SUFFIX,acg.tv,PROXY
+DOMAIN-SUFFIX,biligame.com,PROXY
+IP-CIDR,203.107.1.0/24,REJECT
