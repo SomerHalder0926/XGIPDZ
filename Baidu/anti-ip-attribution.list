@@ -1,8 +1,8 @@
 # ======= 百度贴吧 ======= #
-DOMAIN,tieba.baidu.com,IP 
-DOMAIN,tbmsg.baidu.com,IP 
-DOMAIN,tb5.bdstatic.com,IP 
-DOMAIN,fclog.baidu.com,IP 
-DOMAIN,gsp0.baidu.com,IP
-DOMAIN,hm.baidu.com,IP 
-DOMAIN,www.baidu.com,IP
+DOMAIN,tieba.baidu.com,proxy
+DOMAIN,tbmsg.baidu.com,proxy 
+DOMAIN,tb5.bdstatic.com,proxy 
+DOMAIN,fclog.baidu.com,proxy 
+DOMAIN,gsp0.baidu.com,proxy
+DOMAIN,hm.baidu.com,proxy
+DOMAIN,www.baidu.com,proxy
