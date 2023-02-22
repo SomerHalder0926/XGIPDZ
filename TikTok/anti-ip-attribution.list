@@ -6,5 +6,16 @@ DOMAIN-KEYWORD,normal-c-lq,PROXY
 DOMAIN-KEYWORD,normal-lq,PROXY
 DOMAIN-KEYWORD,search-quic-lq,PROXY
 DOMAIN-KEYWORD,search-lq,PROXY
+DOMAIN-SUFFIX,zijieapi.com,DIRECT
+DOMAIN-SUFFIX,ecombdapi.com,DIRECT
+DOMAIN-KEYWORD,-normal-hl,PROXY
+DOMAIN-KEYWORD,-normal-c-hl,PROXY
+DOMAIN-KEYWORD,-core-c-hl,PROXY
+DOMAIN-KEYWORD,-normal-lf,PROXY
+DOMAIN-KEYWORD,-normal-c-lf,PROXY
+DOMAIN-KEYWORD,-core-c-lf,PROXY
+DOMAIN,sso.douyin.com,PROXY
+DOMAIN,www.douyin.com,PROXY
+DOMAIN-SUFFIX,snssdk.com,PROXY
 HOST,dig.bdurl.net,PROXY
 HOST,api5-hl.pipix.com,PROXY
