@@ -1,4 +1,4 @@
-# ======= 抖音 ======= #
+# ======= 抖音&皮皮虾 ======= #
 # 请求域名过多，建议全局代理
 DOMAIN-KEYWORD,core-c-lq,PROXY
 DOMAIN-KEYWORD,core-lq,PROXY
@@ -6,3 +6,5 @@ DOMAIN-KEYWORD,normal-c-lq,PROXY
 DOMAIN-KEYWORD,normal-lq,PROXY
 DOMAIN-KEYWORD,search-quic-lq,PROXY
 DOMAIN-KEYWORD,search-lq,PROXY
+HOST,dig.bdurl.net,PROXY
+HOST,api5-hl.pipix.com,PROXY
