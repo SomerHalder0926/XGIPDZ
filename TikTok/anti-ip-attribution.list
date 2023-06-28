@@ -6,8 +6,8 @@ DOMAIN-KEYWORD,normal-c-lq,PROXY
 DOMAIN-KEYWORD,normal-lq,PROXY
 DOMAIN-KEYWORD,search-quic-lq,PROXY
 DOMAIN-KEYWORD,search-lq,PROXY
-DOMAIN-SUFFIX,zijieapi.com,DIRECT
-DOMAIN-SUFFIX,ecombdapi.com,DIRECT
+DOMAIN-SUFFIX,zijieapi.com,国内免流
+DOMAIN-SUFFIX,ecombdapi.com,国内免流
 DOMAIN-KEYWORD,-normal-hl,PROXY
 DOMAIN-KEYWORD,-normal-c-hl,PROXY
 DOMAIN-KEYWORD,-core-c-hl,PROXY
