@@ -23,3 +23,7 @@ DOMAIN-SUFFIX,danmuproxy.douyu.com,国内免流
 DOMAIN-SUFFIX,img.douyucdn.cn,国内免流
 DOMAIN-SUFFIX,douyucdn.cn,PROXY
 DOMAIN-SUFFIX,douyu.com,PROXY
+# ======= soul ======= #
+DOMAIN,china-img.soulapp.cn,国内免流
+DOMAIN,img.soulapp.cn,国内免流
+DOMAIN-SUFFIX,soulapp.cn,PROXY
