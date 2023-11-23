@@ -7,3 +7,19 @@ DOMAIN,gsp0.baidu.com,PROXY
 DOMAIN,hm.baidu.com,PROXY
 DOMAIN,www.baidu.com,PROXY
 DOMAIN,tiebac.baidu.com,PROXY
+# ======= 斗鱼 ======= #
+DOMAIN-SUFFIX,hls3-akm.douyucdn.cn,国内免流
+DOMAIN-SUFFIX,hlsa-akm.douyucdn.cn,国内免流
+DOMAIN-SUFFIX,hls1a-akm.douyucdn.cn,国内免流
+DOMAIN-SUFFIX,hls3a-akm.douyucdn.cn,国内免流
+DOMAIN-SUFFIX,vplay1a.douyucdn.cn,国内免流
+DOMAIN-SUFFIX,vplay3a.douyucdn.cn,国内免流
+DOMAIN-SUFFIX,ws-tct.douyucdn.cn,国内免流
+DOMAIN-SUFFIX,akm-tct.douyucdn.cn,国内免流
+DOMAIN-SUFFIX,tx2play1.douyucdn.cn,国内免流
+DOMAIN-SUFFIX,tc-tct1.douyucdn.cn,国内免流
+DOMAIN-SUFFIX,wsproxy.douyu.com,国内免流
+DOMAIN-SUFFIX,danmuproxy.douyu.com,国内免流
+DOMAIN-SUFFIX,img.douyucdn.cn,国内免流
+DOMAIN-SUFFIX,douyucdn.cn,PROXY
+DOMAIN-SUFFIX,douyu.com,PROXY
