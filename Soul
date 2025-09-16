@@ -1,5 +1,0 @@
-# ======= soul ======= #
-DOMAIN,zonai.skland.com,PROXY
-DOMAIN,china-img.soulapp.cn,DIRECT
-DOMAIN,img.soulapp.cn,DIRECT
-DOMAIN-SUFFIX,soulapp.cn,PROXY
